@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! I'm Yiğit
 
-<!--
-**yigitates17/yigitates17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Mathematical Engineer & Self-Taught Data Scientist*
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mathematical Engineer with expertise in **credit risk modeling**, **fraud detection**, and **LLM applications**. Professionally building and deploying advanced RAG architectures, data pipelines, scorecard models, and graph-based fraud analytics for financial services.
+
+## Technical Stack
+
+**Languages & Frameworks:**
+```python
+import polars as pl
+from langchain import *  
+import neo4j, redis
+from sklearn import *  
+import seaborn as sns
+from qdrant_client import *  
+```
+
+## Key Projects
+
+**Credit Risk Models:**
+- **Factoring Scorecards**: Developed end-to-end scoring models for assessing factoring risk with comprehensive validation framework
+- **Graph-Based Fraud Detection**: Network analysis pipeline for identifying suspicious transaction patterns
+
+**LLM Applications:**
+- **Hybrid RAG Architecture**: Production system combining semantic and lexical search for enhanced document retrieval
+
+**Open Source:**
+- **LangChain Contribution**: Resolved critical dependency conflicts in langchain-google ecosystem
