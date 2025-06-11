@@ -4,7 +4,7 @@
 
 ## About Me
 
-Mathematical Engineer with expertise in **credit risk modeling**, **fraud detection**, and **LLM applications**. Professionally building and deploying advanced RAG architectures, data pipelines, scorecard models, and graph-based fraud analytics for financial services.
+Data Scientist (since August 2024 🫡) with expertise in **credit risk modeling**, **fraud detection**, and **LLM applications**. Professionally building and deploying advanced RAG architectures, data pipelines, scorecard models, and graph-based fraud analytics for financial services.
 
 ## Technical Stack
 
