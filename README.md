@@ -1,31 +1,32 @@
-# Hey there! I'm Yiğit
+# Hi, I'm Yiğit 👋
 
-*Mathematical Engineer & Self-Taught Data Scientist*
+**Mathematical Engineer & Data Scientist** MSc Candidate in DS & AI
 
-## About Me
+I am a Data Scientist working in the financial sector. My recent work focuses on two main areas: **Financial Risk Modeling** (Scorecards & Fraud) and **Generative AI** (RAG & LLM Apps).
 
-Data Scientist (since August 2024 🫡) with expertise in **credit risk modeling**, **fraud detection**, and **LLM applications**. Professionally building and deploying advanced RAG architectures, data pipelines, scorecard models, and graph-based fraud analytics for financial services.
+## 🛠 Tech Stack
 
-## Technical Stack
+* **Languages:** Python, SQL
+* **Data & ML:** Polars, Pandas, Scikit-learn, LightGBM, CatBoost
+* **GenAI & LLM:** LangChain, Qdrant, Ollama
+* **Graph & DB:** Neo4j, Redis
 
-**Languages & Frameworks:**
-```python
-import polars as pl
-from langchain import *  
-import neo4j, redis
-from sklearn import *  
-import seaborn as sns
-from qdrant_client import *  
-```
+## 🔭 Current Work & Projects
 
-## Key Projects
+### Financial Risk
+* **Factoring Scorecards:** Developed end-to-end scoring pipelines for cheque factoring risk.
+* **Fraud Detection:** Built graph analysis pipelines to identify suspicious transaction patterns using Neo4j.
 
-**Credit Risk Models:**
-- **Factoring Scorecards**: Developed end-to-end scoring models for assessing factoring risk with comprehensive validation framework
-- **Graph-Based Fraud Detection**: Network analysis pipeline for identifying suspicious transaction patterns
+### Generative AI (RAG)
+* **RAG Architecture:** Proposed and deployed RAG architectures for document processing.
+    * 📄 **Paper:** [Semantic Chunking and Chain-Of-Thought Reasoning for Rag-Based Document Processing](https://www.researchgate.net/publication/396881423_Semantic_Chunking_and_Chain-Of-Thought_Reasoning_for_Rag-Based_Document_Processing) (Accepted at MLSP 2025).
 
-**LLM Applications:**
-- **Hybrid RAG Architecture**: Production system combining semantic and lexical search for enhanced document retrieval
+### Open Source
+* **LangChain:** Contributed to the ecosystem by resolving dependency conflicts.
+    * 🔗 [PR #967: langchain-google dependency fix](https://github.com/langchain-ai/langchain-google/pull/967)
 
-**Open Source:**
-- **LangChain Contribution**: Resolved critical dependency conflicts in langchain-google ecosystem
+## 🌱 What's Next
+I am currently exploring **LangGraph** to move from standard RAG chains to more complex **agentic workflows**.
+
+---
+[LinkedIn](https://www.linkedin.com/in/yigitates/) • [Google Scholar](https://scholar.google.com/citations?user=gqRsqzAAAAAJ&hl=tr)
